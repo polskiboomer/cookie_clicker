@@ -2,8 +2,8 @@ from random import randint
 import time
 import pygame
 
-HEIGHT = 1010
-WIDTH = 1850
+HEIGHT = 600
+WIDTH = 800
 punkty = 0
 color = (0, 0, 0)
 randomx = 255
